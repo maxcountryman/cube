@@ -100,6 +100,14 @@ escape() {
   printf %s "$s"
 }
 
+slugify() {
+  s="${1//'"'/&quot;}"
+  s="${s//'<'/&lt;}"
+  s="${s//'>'/&gt;}"
+  s="${s//' '/&#45;}"
+  printf %s "$s"
+}
+
 pattern='^- \[\([ x]\)\] \(.*\) (\(.*\))$'
 
 cat <<HEADER
@@ -157,7 +165,7 @@ in_block=false
 while read line ; do
   if [[ "$line" == \#* ]] ; then
     heading="${line/'### '/}"
-    printf '  <h3 id="%s">%s</h3>\n' "$(tr [:upper:] [:lower:] <<<"$heading")" "$(escape "$heading")"
+    printf '  <h3 id="%s">%s</h3>\n' "$(tr [:upper:] [:lower:] <<<"$(slugify "$heading")")" "$(escape "$heading")"
   elif [[ "$line" == -* ]] ; then
     box_value="$(sed "s:$pattern:\1:" <<<"$line")"
     card_name="$(sed "s:$pattern:\2:" <<<"$line")"
