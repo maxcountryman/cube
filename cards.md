@@ -174,7 +174,7 @@
   - [x] Keranos, God of Storms ( )
   - [x] Prophetic Bolt ( )
 
-### Mono_Black
+### Mono Black
 
   - [x] Animate Dead ( )
   - [x] Bad Moon ( )
@@ -262,7 +262,7 @@
   - [x] Whip of Erebos ( )
   - [x] Xathrid Necromancer ( )
 
-### Mono_Blue
+### Mono Blue
 
   - [x] Ancestral Vision ( )
   - [x] Augur of Bolas ( )
@@ -349,7 +349,7 @@
   - [x] Wake Thrasher ( )
   - [x] Waterfront Bouncer ( )
 
-### Mono_Green
+### Mono Green
 
   - [x] Acidic Slime ( )
   - [x] Arbor Elf ( )
@@ -437,7 +437,7 @@
   - [x] Woodfall Primus ( )
   - [x] Yavimaya Elder ( )
 
-### Mono_Red
+### Mono Red
 
   - [x] Act of Aggression ( )
   - [x] Ancient Grudge ( )
@@ -524,7 +524,7 @@
   - [x] Young Pyromancer ( )
   - [x] Zealous Conscripts ( )
 
-### Mono_White
+### Mono White
 
   - [x] Accorder Paladin ( )
   - [x] Ajani Goldmane ( )

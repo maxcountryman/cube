@@ -6,7 +6,7 @@ headers = []
 
 last_color = None
 for (name, color, _, _, _, _, _) in csv.reader(iter(sys.stdin.readline, '')):
-    color = color.title()
+    color = color.title().replace('_', ' ')
 
     if last_color is not None and last_color != color:
         print ''
