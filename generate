@@ -94,7 +94,8 @@ uriencode() {
 }
 
 escape() {
-  s="${1//'"'/&quot;}"
+  s="${1//'&'/&amp;}"
+  s="${s//'"'/&quot;}"
   s="${s//'<'/&lt;}"
   s="${s//'>'/&gt;}"
   printf %s "$s"
