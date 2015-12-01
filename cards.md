@@ -372,6 +372,7 @@
   - [x] Deranged Hermit ( )
   - [x] Elves of Deep Shadow ( )
   - [x] Elvish Mystic ( )
+  - [x] Eternal Witness ( )
   - [x] Eureka ( )
   - [x] Explore ( )
   - [x] Farseek ( )
@@ -435,7 +436,6 @@
   - [x] Wild Mongrel ( )
   - [x] Wolfir Silverheart ( )
   - [x] Woodfall Primus ( )
-  - [x] Yavimaya Elder ( )
 
 ### Mono Red
 
