@@ -16,7 +16,7 @@
   - [x] Lightning Helix ( )
   - [x] Warleader's Helix ( )
 
-### Colourless
+### Colorless
 
   - [x] Adarkar Wastes ( )
   - [x] Aether Vial ( )
