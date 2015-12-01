@@ -595,7 +595,7 @@
   - [x] Reveillark ( )
   - [x] Savannah Lions ( )
   - [x] Seal of Cleansing ( )
-  - [x] Secure the Wastes (Dragon's of Tarkir)
+  - [x] Secure the Wastes (Dragons of Tarkir)
   - [x] Seeker of the Way ( )
   - [x] Silverblade Paladin ( )
   - [x] Soldier of the Pantheon ( )
