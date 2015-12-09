@@ -53,6 +53,7 @@ declare -A sets=(
   ["Shards of Alara"]="ALA"
   ["Conflux"]="CON"
   ["Alara Reborn"]="ARB"
+  ["Magic 2010"]="M10"
   ["Zendikar"]="ZEN"
   ["Worldwake"]="WWK"
   ["Rise of the Eldrazi"]="ROE"
