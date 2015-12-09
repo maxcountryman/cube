@@ -526,6 +526,7 @@
 
 ### Mono White
 
+  - [x] Academy Rector (Urza's Destiny)
   - [x] Accorder Paladin ( )
   - [x] Ajani Goldmane ( )
   - [x] Ajani Steadfast ( )
@@ -540,7 +541,6 @@
   - [x] Blade Splicer ( )
   - [x] Boros Elite ( )
   - [x] Brimaz, King of Oreskos ( )
-  - [x] Champion of the Parish ( )
   - [x] Cloudgoat Ranger ( )
   - [x] Condemn ( )
   - [x] Council's Judgment ( )
