@@ -5,6 +5,7 @@ declare -A sets=(
   ["Unlimited Edition"]="2U"
   ["Arabian Nights"]="AN"
   ["Antiquities"]="AQ"
+  ["Revised Edition"]="3ED"
   ["Legends"]="LE"
   ["The Dark"]="DK"
   ["Fallen Empires"]="FE"
