@@ -112,7 +112,7 @@
   - [x] Temple of Silence ( )
   - [x] Temple of Triumph ( )
   - [x] Thran Dynamo (Urza's Destiny)
-  - [x] Tolarian Academy (Uzra's Saga)
+  - [x] Tolarian Academy (Urza's Saga)
   - [x] Tropical Island (Revised Edition)
   - [x] Tundra (Revised Edition)
   - [x] Ugin, the Spirit Dragon ( )
