@@ -172,7 +172,7 @@
   - [x] Fire // Ice ( )
   - [x] Goblin Electromancer ( )
   - [x] Keranos, God of Storms ( )
-  - [x] Prophetic Bolt ( )
+  - [x] Ral Zarek (Dragon's Maze)
 
 ### Mono Black
 
