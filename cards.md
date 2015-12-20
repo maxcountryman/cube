@@ -60,7 +60,7 @@
   - [x] Karn Liberated (New Phyrexia)
   - [x] Kozilek, Butcher of Truth ( )
   - [x] Lightning Greaves ( )
-  - [x] Loadstone Golem ( )
+  - [x] Lodestone Golem ( )
   - [x] Mana Confluence ( )
   - [x] Mana Vault ( )
   - [x] Marsh Flats (Zendikar)
