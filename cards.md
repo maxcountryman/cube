@@ -181,7 +181,7 @@
   - [x] Black Sun's Zenith ( )
   - [x] Bloodline Keeper ( )
   - [x] Bloodsoaked Champion ( )
-  - [x] Braid's, Cabal Minion (Odyssey)
+  - [x] Braids, Cabal Minion (Odyssey)
   - [x] Brain Maggot ( )
   - [x] Chainer's Edict ( )
   - [x] Consuming Vapors ( )
