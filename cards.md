@@ -238,7 +238,6 @@
   - [x] Profane Command ( )
   - [x] Reanimate ( )
   - [x] Recurring Nightmare (Exodus)
-  - [x] Sarcomancy ( )
   - [x] Sheoldred, Whispering One ( )
   - [x] Shriekmaw ( )
   - [x] Sinkhole ( )
@@ -261,6 +260,7 @@
   - [x] Visara the Dreadful ( )
   - [x] Whip of Erebos ( )
   - [x] Xathrid Necromancer ( )
+  - [x] Yawgmoth's Will (Urza's Saga)
 
 ### Mono Blue
 
