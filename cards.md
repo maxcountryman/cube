@@ -177,11 +177,11 @@
 ### Mono Black
 
   - [x] Animate Dead ( )
-  - [x] Bad Moon ( )
   - [x] Bitterblossom ( )
   - [x] Black Sun's Zenith ( )
   - [x] Bloodline Keeper ( )
   - [x] Bloodsoaked Champion ( )
+  - [x] Braid's, Cabal Minion (Odyssey)
   - [x] Brain Maggot ( )
   - [x] Carnophage ( )
   - [x] Chainer's Edict ( )
