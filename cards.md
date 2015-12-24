@@ -33,6 +33,7 @@
   - [x] Bonesplitter ( )
   - [x] Boros Signet (Ravnica: City of Guilds)
   - [x] Breeding Pool (Gatecrash)
+  - [x] Chrome Mox (Mirrodin)
   - [x] City of Brass (Modern Masters)
   - [x] Clifftop Retreat ( )
   - [x] Cursed Scroll (Tempest)
