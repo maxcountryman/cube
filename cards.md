@@ -61,6 +61,7 @@
   - [x] Kozilek, Butcher of Truth ( )
   - [x] Lightning Greaves ( )
   - [x] Lodestone Golem ( )
+  - [x] Lotus Petal (Tempest)
   - [x] Mana Confluence ( )
   - [x] Mana Vault ( )
   - [x] Marsh Flats (Zendikar)
