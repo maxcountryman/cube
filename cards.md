@@ -64,6 +64,7 @@
   - [x] Mana Confluence ( )
   - [x] Mana Vault ( )
   - [x] Marsh Flats (Zendikar)
+  - [x] Maze of Ith (The Dark)
   - [x] Memory Jar ( )
   - [x] Mindslaver (Mirrodin)
   - [x] Mishra's Factory ( )
