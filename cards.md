@@ -62,6 +62,7 @@
   - [x] Lightning Greaves ( )
   - [x] Lodestone Golem ( )
   - [x] Lotus Petal (Tempest)
+  - [x] Lotus Bloom (Time Spiral)
   - [x] Mana Confluence ( )
   - [x] Mana Vault ( )
   - [x] Marsh Flats (Zendikar)
