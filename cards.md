@@ -437,6 +437,7 @@
 
 ### Mono Red
 
+  - [x] Abbot of Keral Keep ( )
   - [x] Act of Aggression ( )
   - [x] Ancient Grudge ( )
   - [x] Anger of the Gods ( )
@@ -489,7 +490,6 @@
   - [x] Lightning Bolt ( )
   - [x] Lightning Mauler ( )
   - [x] Lightning Strike ( )
-  - [x] Madcap Skills ( )
   - [x] Magma Jet ( )
   - [x] Mizzium Mortars ( )
   - [x] Molten Rain ( )
