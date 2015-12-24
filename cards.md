@@ -143,6 +143,10 @@
   - [x] Notion Thief ( )
   - [x] Psychatog (Odyssey)
 
+### Esper
+
+  - [x] Sphinx of the Steel Wind (Alara Reborn)
+
 ### Golgari
 
   - [x] Abrupt Decay ( )
