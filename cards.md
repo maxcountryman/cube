@@ -491,7 +491,6 @@
   - [x] Madcap Skills ( )
   - [x] Magma Jet ( )
   - [x] Mizzium Mortars ( )
-  - [x] Mogg War Marshal ( )
   - [x] Molten Rain ( )
   - [x] Pillar of Flame ( )
   - [x] Purphoros, God of the Forge ( )
@@ -517,6 +516,7 @@
   - [x] Tempt with Vengeance ( )
   - [x] Through the Breach ( )
   - [x] Thundermaw Hellkite ( )
+  - [x] Wildfire (Urza's Saga)
   - [x] Young Pyromancer ( )
   - [x] Zealous Conscripts ( )
 
