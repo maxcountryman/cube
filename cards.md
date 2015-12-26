@@ -61,6 +61,7 @@
   - [x] Karn Liberated (New Phyrexia)
   - [x] Kozilek, Butcher of Truth ( )
   - [x] Lightning Greaves ( )
+  - [x] Lion's Eye Diamond (Mirage)
   - [x] Lodestone Golem ( )
   - [x] Lotus Petal (Tempest)
   - [x] Lotus Bloom (Time Spiral)
