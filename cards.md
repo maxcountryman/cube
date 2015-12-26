@@ -443,7 +443,6 @@
 ### Mono Red
 
   - [x] Abbot of Keral Keep ( )
-  - [x] Act of Aggression ( )
   - [x] Ancient Grudge ( )
   - [x] Anger of the Gods ( )
   - [x] Arc Trail ( )
@@ -453,6 +452,7 @@
   - [x] Bonfire of the Damned ( )
   - [x] Borderland Marauder ( )
   - [x] Brimstone Volley ( )
+  - [x] Browbeat (Judgment)
   - [x] Burning of Xinye ( )
   - [x] Burst Lightning ( )
   - [x] Chain Lightning ( )
