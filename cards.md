@@ -208,7 +208,7 @@
   - [x] Dismember ( )
   - [x] Doom Blade ( )
   - [x] Dread Return ( )
-  - [x] Duress ( )
+  - [x] Duress (Urza's Saga)
   - [x] Entomb ( )
   - [x] Exhume ( )
   - [x] Go for the Throat ( )
