@@ -60,6 +60,7 @@
   - [x] Karakas (Legends)
   - [x] Karn Liberated (New Phyrexia)
   - [x] Kozilek, Butcher of Truth ( )
+  - [x] Kuldotha Forgemaster ( )
   - [x] Lightning Greaves ( )
   - [x] Lion's Eye Diamond (Mirage)
   - [x] Lodestone Golem ( )
