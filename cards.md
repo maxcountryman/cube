@@ -229,7 +229,7 @@
   - [x] Liliana of the Veil ( )
   - [x] Liliana Vess (Magic 2015 Core Set)
   - [x] Living Death ( )
-  - [x] Makeshit Mannequin (Lorwyn)
+  - [x] Makeshift Mannequin (Lorwyn)
   - [x] Massacre Wurm ( )
   - [x] Master of the Feast ( )
   - [x] Mesmeric Fiend ( )
