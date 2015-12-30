@@ -406,7 +406,7 @@
   - [x] Naturalize ( )
   - [x] Nissa, Worldwaker ( )
   - [x] Noble Hierarch ( )
-  - [x] Oath of Driuds (Exodus)
+  - [x] Oath of Druids (Exodus)
   - [x] Obstinate Baloth ( )
   - [x] Oracle of Mul Daya ( )
   - [x] Overgrown Battlement ( )
