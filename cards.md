@@ -223,7 +223,6 @@
   - [x] Hymn to Tourach ( )
   - [x] Hypnotic Specter ( )
   - [x] Inquisition of Kozilek ( )
-  - [x] Knight of Infamy ( )
   - [x] Kokusho, the Evening Star ( )
   - [x] Lifebane Zombie ( )
   - [x] Liliana of the Veil ( )
@@ -269,6 +268,7 @@
   - [x] Visara the Dreadful (Onslaught)
   - [x] Whip of Erebos ( )
   - [x] Xathrid Necromancer ( )
+  - [x] Yawgmoth's Bargain (Urza's Destiny)
   - [x] Yawgmoth's Will (Urza's Saga)
 
 ### Mono Blue
