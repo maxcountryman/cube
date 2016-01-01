@@ -100,6 +100,7 @@
   - [x] Skullclamp (Darksteel)
   - [x] Solemn Simulacrum ( )
   - [x] Spellskite (New Phyrexia)
+  - [x] Staff of Domination (Fifth Dawn)
   - [x] Staff of Nin ( )
   - [x] Steam Vents (Return to Ravnica)
   - [x] Stomping Ground (Gatecrash)
