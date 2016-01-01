@@ -339,7 +339,6 @@
   - [x] Snapcaster Mage ( )
   - [x] Spell Pierce (Zendikar)
   - [x] Sower of Temptation ( )
-  - [x] Treasure Cruise ( )
   - [x] Talrand, Sky Summoner ( )
   - [x] Tamiyo, the Moon Sage ( )
   - [x] Teferi, Mage of Zhalfir (Time Spiral)
@@ -349,12 +348,13 @@
   - [x] Tinker (Urza's Legacy)
   - [x] Tradewind Rider ( )
   - [x] Treachery ( )
+  - [x] Treasure Cruise ( )
+  - [x] True-Name Nemesis ( )
   - [x] Turnabout (Urza's Saga)
   - [x] Upheaval (Odyssey)
   - [x] Vendilion Clique (Morningtide)
   - [x] Venser, Shaper Savant (Future Sight)
   - [x] Wake Thrasher ( )
-  - [x] Waterfront Bouncer (Mercadian Masques)
 
 ### Mono Green
 
