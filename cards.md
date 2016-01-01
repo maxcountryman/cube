@@ -498,7 +498,7 @@
   - [x] Magma Jet ( )
   - [x] Mizzium Mortars ( )
   - [x] Molten Rain ( )
-  - [x] Pillar of Flame ( )
+  - [x] Past in Flames (Innistrad)
   - [x] Price of Progress (Exodus)
   - [x] Purphoros, God of the Forge ( )
   - [x] Rift Bolt ( )
