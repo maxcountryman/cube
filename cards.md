@@ -1,7 +1,6 @@
 ### Azorius
 
   - [x] Brago, King Eternal ( )
-  - [x] Detention Sphere ( )
   - [x] Geist of Saint Traft ( )
   - [x] Sphinx's Revelation ( )
   - [x] Supreme Verdict ( )
@@ -11,7 +10,6 @@
 
   - [x] Ajani Vengeant (Shards of Alara)
   - [x] Boros Charm ( )
-  - [x] Boros Reckoner ( )
   - [x] Figure of Destiny ( )
   - [x] Lightning Helix ( )
   - [x] Warleader's Helix ( )
@@ -146,7 +144,6 @@
 
   - [x] Ashiok, Nightmare Weaver ( )
   - [x] Baleful Strix ( )
-  - [x] Far // Away ( )
   - [x] Nightveil Specter ( )
   - [x] Notion Thief ( )
   - [x] Psychatog (Odyssey)
@@ -160,7 +157,6 @@
   - [x] Abrupt Decay ( )
   - [x] Deathrite Shaman ( )
   - [x] Garruk, Apex Predator ( )
-  - [x] Lotleth Troll ( )
   - [x] Maelstrom Pulse ( )
   - [x] Vraska the Unseen (Return to Ravnica)
 
@@ -171,7 +167,6 @@
 ### Gruul
 
   - [x] Bloodbraid Elf ( )
-  - [x] Burning-Tree Emissary ( )
   - [x] Domri Rade ( )
   - [x] Ghor-Clan Rampager ( )
   - [x] Huntmaster of the Fells ( )
@@ -182,7 +177,6 @@
   - [x] Dack Fayden ( )
   - [x] Electrolyze ( )
   - [x] Fire // Ice ( )
-  - [x] Goblin Electromancer ( )
   - [x] Keranos, God of Storms ( )
   - [x] Ral Zarek (Dragon's Maze)
 
@@ -616,7 +610,6 @@
 
 ### Orzhov
 
-  - [x] Gerrard's Verdict ( )
   - [x] Sin Collector ( )
   - [x] Sorin, Lord of Innistrad (Dark Ascension)
   - [x] Sorin, Solemn Visitor ( )
@@ -630,7 +623,6 @@
 ### Rakdos
 
   - [x] Dreadbore ( )
-  - [x] Falkenrath Aristocrat ( )
   - [x] Murderous Redcap ( )
   - [x] Olivia Voldaren ( )
   - [x] Rakdos Cackler ( )
@@ -639,7 +631,6 @@
 ### Selesnya
 
   - [x] Ajani, Mentor of Heroes ( )
-  - [x] Fleecemane Lion ( )
   - [x] Kitchen Finks ( )
   - [x] Mirari's Wake ( )
   - [x] Qasali Pridemage ( )
@@ -650,6 +641,5 @@
   - [x] Edric, Spymaster of Trest ( )
   - [x] Kiora, the Crashing Wave ( )
   - [x] Mystic Snake ( )
-  - [x] Prime Speaker Zegana ( )
   - [x] Shardless Agent ( )
   - [x] Trygon Predator ( )
