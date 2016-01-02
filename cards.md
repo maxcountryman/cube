@@ -124,6 +124,7 @@
   - [x] Tropical Island (Revised Edition)
   - [x] Tundra (Revised Edition)
   - [x] Ugin, the Spirit Dragon ( )
+  - [x] Ulamog, the Ceaseless Hunger (Battle for Zendikar)
   - [x] Ulamog, the Infinite Gyre ( )
   - [x] Umezawa's Jitte ( )
   - [x] Underground Sea (Revised Edition)
