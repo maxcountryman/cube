@@ -147,7 +147,7 @@
   - [x] Baleful Strix ( )
   - [x] Notion Thief ( )
   - [x] Psychatog (Odyssey)
-  - [x] Tezzeretm Agent of Bolas ( )
+  - [x] Tezzeret, Agent of Bolas ( )
 
 ### Esper
 
