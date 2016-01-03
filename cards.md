@@ -271,7 +271,6 @@
 
   - [x] Ancestral Vision ( )
   - [x] Augur of Bolas ( )
-  - [x] Bident of Thassa ( )
   - [x] Brain Freeze (Scourge)
   - [x] Brainstorm (Mercadian Masques)
   - [x] Chasm Skulker ( )
@@ -339,6 +338,7 @@
   - [x] Teferi, Mage of Zhalfir (Time Spiral)
   - [x] Tezzeret the Seeker (Shards of Alara)
   - [x] Thassa, God of the Sea ( )
+  - [x] Thirst for Knowledge (Mirrodin)
   - [x] Time Spiral (Urza's Saga)
   - [x] Time Warp (Magic 2010)
   - [x] Tinker (Urza's Legacy)
