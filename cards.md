@@ -145,9 +145,9 @@
 
   - [x] Ashiok, Nightmare Weaver ( )
   - [x] Baleful Strix ( )
-  - [x] Nightveil Specter ( )
   - [x] Notion Thief ( )
   - [x] Psychatog (Odyssey)
+  - [x] Tezzeretm Agent of Bolas ( )
 
 ### Esper
 
