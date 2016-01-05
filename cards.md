@@ -90,6 +90,7 @@
   - [x] Sacred Foundry (Gatecrash)
   - [x] Savannah (Revised Edition)
   - [x] Scalding Tarn (Zendikar)
+  - [x] Scroll Rack (Tempest)
   - [x] Scrubland (Revised Edition)
   - [x] Selesnya Signet (Ravnica: City of Guilds)
   - [x] Sensei's Divining Top (Champions of Kamigawa)
