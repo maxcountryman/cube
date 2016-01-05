@@ -96,6 +96,7 @@
   - [x] Shrine of Burning Rage ( )
   - [x] Simic Signet (Dissension)
   - [x] Skullclamp (Darksteel)
+  - [x] Smokestack (Urza's Saga)
   - [x] Solemn Simulacrum ( )
   - [x] Spellskite (New Phyrexia)
   - [x] Staff of Domination (Fifth Dawn)
