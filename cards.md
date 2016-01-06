@@ -298,6 +298,7 @@
   - [x] Mind's Desire (Scourge)
   - [x] Miscalculation ( )
   - [x] Mulldrifter ( )
+  - [x] Mystical Tutor (Mirage)
   - [x] Opposition (Urza's Destiny)
   - [x] Pact of Negation ( )
   - [x] Palinchron (Urza's Legacy)
