@@ -427,7 +427,7 @@
   - [x] Firebolt ( )
   - [x] Firedrinker Satyr ( )
   - [x] Flametongue Kavu (Commander 2014)
-  - [x] Goblin Bushwhacker ( )
+  - [x] Fork (Unlimited Edition)
   - [x] Goblin Guide ( )
   - [x] Goblin Rabblemaster ( )
   - [x] Goblin Wardriver ( )
