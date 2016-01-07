@@ -264,6 +264,7 @@
   - [x] Augur of Bolas ( )
   - [x] Brain Freeze (Scourge)
   - [x] Brainstorm (Mercadian Masques)
+  - [x] Careful Study (Odyssey)
   - [x] Compulsive Research ( )
   - [x] Consecrated Sphinx ( )
   - [x] Control Magic ( )
