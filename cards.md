@@ -143,6 +143,7 @@
   - [x] Woodland Cemetery ( )
   - [x] Worn Powerstone ( )
   - [x] Wurmcoil Engine ( )
+  - [x] Zuran Orb (Ice Age)
 
 ### Dimir
 
