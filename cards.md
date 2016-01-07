@@ -517,6 +517,7 @@
   - [x] Karmic Guide ( )
   - [x] Land Tax ( )
   - [x] Leonin Arbiter (Scars of Mirrodin)
+  - [x] Library of Alexandria (Arabian Nights)
   - [x] Lingering Souls ( )
   - [x] Linvala, Keeper of Silence ( )
   - [x] Mana Tithe ( )
