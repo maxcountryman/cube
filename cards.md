@@ -120,7 +120,6 @@
   - [x] Sunpetal Grove ( )
   - [x] Taiga (Revised Edition)
   - [x] Tangle Wire (Nemesis)
-  - [x] Tectonic Edge (Worldwake)
   - [x] Temple Garden (Return to Ravnica)
   - [x] Temple of Abandon ( )
   - [x] Temple of Deceit ( )
