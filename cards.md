@@ -525,7 +525,7 @@
   - [x] Karmic Guide ( )
   - [x] Land Tax ( )
   - [x] Leonin Arbiter (Scars of Mirrodin)
-  - [x] Lenin Relic-Warder (Mirrodin Besieged)
+  - [x] Leonin Relic-Warder (Mirrodin Besieged)
   - [x] Lingering Souls ( )
   - [x] Mana Tithe ( )
   - [x] Mentor of the Meek ( )
