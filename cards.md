@@ -520,7 +520,6 @@
   - [x] Exalted Angel ( )
   - [x] Faith's Fetters ( )
   - [x] Flickerwisp ( )
-  - [x] Frontline Medic ( )
   - [x] Gideon Jura ( )
   - [x] Hallowed Spiritkeeper ( )
   - [x] Hero of Bladehold ( )
@@ -560,6 +559,7 @@
   - [x] Terminus ( )
   - [x] Thalia, Guardian of Thraben ( )
   - [x] Unexpectedly Absent ( )
+  - [x] Village Bell-Ringer (Innistrad)
   - [x] Wall of Omens ( )
   - [x] Wrath of God (Seventh Edition)
 
