@@ -519,7 +519,6 @@
   - [x] Hero of Bladehold ( )
   - [x] Honor of the Pure ( )
   - [x] Iona, Shield of Emeria (Zendikar)
-  - [x] Imposing Sovereign ( )
   - [x] Isamaru, Hound of Konda ( )
   - [x] Karmic Guide ( )
   - [x] Land Tax ( )
@@ -555,6 +554,7 @@
   - [x] Unexpectedly Absent ( )
   - [x] Village Bell-Ringer (Innistrad)
   - [x] Wall of Omens ( )
+  - [x] War Priest of Thune ( )
   - [x] Wrath of God (Seventh Edition)
 
 ### Orzhov
