@@ -360,7 +360,7 @@
   - [x] Elves of Deep Shadow ( )
   - [x] Elvish Mystic ( )
   - [x] Eternal Witness ( )
-  - [x] Eureka ( )
+  - [x] Eureka (Legends)
   - [x] Fastbond (Unlimited Edition)
   - [x] Fauna Shaman ( )
   - [x] Freyalise, Llanowar's Fury ( )
