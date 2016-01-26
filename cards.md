@@ -167,10 +167,10 @@
 
 ### Golgari
 
-  - [x] Abrupt Decay ( )
   - [x] Deathrite Shaman ( )
   - [x] Garruk, Apex Predator ( )
   - [x] Maelstrom Pulse ( )
+  - [x] Pernicious Deed (Apocalypse)
   - [x] Vraska the Unseen (Return to Ravnica)
 
 ### Grixis
