@@ -567,9 +567,9 @@
 ### Rakdos
 
   - [x] Dreadbore ( )
-  - [x] Murderous Redcap ( )
   - [x] Olivia Voldaren ( )
   - [x] Rakdos Cackler ( )
+  - [x] Rakdos's Return (Return to Ravnica)
   - [x] Terminate ( )
 
 ### Selesnya
