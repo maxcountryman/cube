@@ -74,6 +74,7 @@
   - [x] Metalworker (Urza's Destiny)
   - [x] Mindslaver (Mirrodin)
   - [x] Mishra's Factory ( )
+  - [x] Mishra's Workshop (Antiquities)
   - [x] Misty Rainforest (Zendikar)
   - [x] Mox Diamond (Stronghold)
   - [x] Mox Emerald (Unlimited Edition)
