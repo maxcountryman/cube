@@ -143,6 +143,7 @@
   - [x] Vedalken Shackles (Fifth Dawn)
   - [x] Verdant Catacombs (Zendikar)
   - [x] Volcanic Island (Revised Edition)
+  - [x] Voltaic Key (Urza's Saga)
   - [x] Wasteland (Tempest)
   - [x] Watery Grave (Gatecrash)
   - [x] Windbrisk Heights ( )
