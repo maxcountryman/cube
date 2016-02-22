@@ -84,7 +84,7 @@
   - [x] Mox Ruby (Unlimited Edition)
   - [x] Mox Sapphire (Unlimited Edition)
   - [x] Mox Opal (Scars of Mirrodin)
-  - [x] Mutavault (Revised Edition)
+  - [x] Mutavault (Morningtide)
   - [x] Myr Battlesphere ( )
   - [x] Nykthos, Shrine to Nyx ( )
   - [x] Orzhov Signet (Guildpact)
