@@ -121,7 +121,7 @@
   - [x] Sundering Titan ( )
   - [x] Sunpetal Grove ( )
   - [x] Sword of Feast and Famine (Mirrodin Besieged)
-  - [x] Sword of Mind and Body (Scars of Mirrodin)
+  - [x] Sword of Body of Mind (Scars of Mirrodin)
   - [x] Taiga (Revised Edition)
   - [x] Tangle Wire (Nemesis)
   - [x] Temple Garden (Return to Ravnica)
