@@ -491,7 +491,6 @@
 
   - [x] Academy Rector (Urza's Destiny)
   - [x] Ajani Goldmane ( )
-  - [x] Ajani, Caller of the Pride ( )
   - [x] Angel of Serenity ( )
   - [x] Angelic Destiny ( )
   - [x] Archangel of Thune ( )
@@ -548,6 +547,7 @@
   - [x] Spear of Heliod ( )
   - [x] Spectral Procession ( )
   - [x] Spirit of the Labyrinth (Born of the Gods)
+  - [x] Stoneforge Mystic (Worldwake)
   - [x] Sublime Archangel ( )
   - [x] Sun Titan ( )
   - [x] Swords to Plowshares ( )
