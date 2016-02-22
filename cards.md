@@ -34,6 +34,7 @@
   - [x] Chrome Mox (Mirrodin)
   - [x] City of Brass (Modern Masters)
   - [x] Clifftop Retreat ( )
+  - [x] Coalition Relic (Future Sight)
   - [x] Cursed Scroll (Tempest)
   - [x] Dimir Signet (Ravnica: City of Guilds)
   - [x] Dragonskull Summit ( )
