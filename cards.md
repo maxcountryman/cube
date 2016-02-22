@@ -51,6 +51,7 @@
   - [x] Gruul Signet (Guildpact)
   - [x] Hallowed Fountain (Return to Ravnica)
   - [x] Hangarback Walker ( )
+  - [x] Hedron Archive ( )
   - [x] Hinterland Harbor ( )
   - [x] Isochron Scepter ( )
   - [x] Isolated Chapel ( )
