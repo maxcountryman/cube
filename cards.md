@@ -117,7 +117,6 @@
   - [x] Steam Vents (Return to Ravnica)
   - [x] Stomping Ground (Gatecrash)
   - [x] Strip Mine ( )
-  - [x] Sulfurous Springs ( )
   - [x] Sundering Titan ( )
   - [x] Sunpetal Grove ( )
   - [x] Sword of Feast and Famine (Mirrodin Besieged)
