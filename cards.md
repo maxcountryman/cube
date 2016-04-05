@@ -466,7 +466,7 @@
   - [x] Lightning Strike ( )
   - [x] Mizzium Mortars ( )
   - [x] Outpost Siege (Fate Reforged)
-  - [x] Price of Progress (Exodus)
+  - [x] Past in Flames (Innistrad)
   - [x] Rift Bolt ( )
   - [x] Sarkhan, the Dragonspeaker ( )
   - [x] Searing Blaze ( )
