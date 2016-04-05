@@ -274,7 +274,6 @@
 
   - [x] Ancestral Recall (Unlimited Edition)
   - [x] Ancestral Vision ( )
-  - [x] Augur of Bolas ( )
   - [x] Brain Freeze (Scourge)
   - [x] Brainstorm (Mercadian Masques)
   - [x] Careful Study (Odyssey)
@@ -332,6 +331,7 @@
   - [x] Tamiyo, the Moon Sage ( )
   - [x] Tezzeret the Seeker (Shards of Alara)
   - [x] Thada Adel, Acquisitor (Worldwake)
+  - [x] Thing in the Ice ( )
   - [x] Thirst for Knowledge (Mirrodin)
   - [x] Time Spiral (Urza's Saga)
   - [x] Timetwister (Unlimited Edition)
