@@ -37,6 +37,7 @@
   - [x] Coalition Relic (Future Sight)
   - [x] Crucible of Worlds (Fifth Dawn)
   - [x] Cursed Scroll (Tempest)
+  - [x] Dark Depths (Coldsnap)
   - [x] Dimir Signet (Ravnica: City of Guilds)
   - [x] Dragonskull Summit ( )
   - [x] Drowned Catacomb ( )
