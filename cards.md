@@ -150,6 +150,7 @@
   - [x] Voltaic Key (Urza's Saga)
   - [x] Wasteland (Tempest)
   - [x] Watery Grave (Gatecrash)
+  - [x] Westvale Abbey ( )
   - [x] Windbrisk Heights ( )
   - [x] Windswept Heath (Khans of Tarkir)
   - [x] Winter Orb ( )
