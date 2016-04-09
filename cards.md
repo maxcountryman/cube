@@ -436,7 +436,7 @@
   - [x] Flametongue Kavu (Commander 2014)
   - [x] Geistblast ( )
   - [x] Goblin Guide ( )
-  - [x] Golbin Rabblemaster ( )
+  - [x] Goblin Rabblemaster ( )
   - [x] Goblin Welder (Urza's Legacy)
   - [x] Gore-House Chainwalker ( )
   - [x] Greater Gargadon ( )
