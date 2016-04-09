@@ -579,8 +579,8 @@
 
 ### Simic
 
+  - [x] Altered Ego ( )
   - [x] Edric, Spymaster of Trest ( )
   - [x] Kiora, the Crashing Wave ( )
   - [x] Mystic Snake ( )
-  - [x] Shardless Agent ( )
   - [x] Trygon Predator ( )
