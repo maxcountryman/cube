@@ -164,8 +164,8 @@
 
   - [x] Ashiok, Nightmare Weaver ( )
   - [x] Baleful Strix ( )
+  - [x] Dragonlord Silumgar ( )
   - [x] Notion Thief ( )
-  - [x] Psychatog (Odyssey)
   - [x] Tezzeret, Agent of Bolas ( )
 
 ### Esper
