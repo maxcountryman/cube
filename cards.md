@@ -197,7 +197,7 @@
   - [x] Dack Fayden ( )
   - [x] Electrolyze ( )
   - [x] Fire // Ice ( )
-  - [x] Keranos, God of Storms ( )
+  - [x] Jori En, Ruin Diver ( )
   - [x] Ral Zarek (Dragon's Maze)
 
 ### Mono Black
