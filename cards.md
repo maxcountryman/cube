@@ -551,10 +551,10 @@
 
 ### Orzhov
 
-  - [x] Sin Collector ( )
   - [x] Sorin, Lord of Innistrad (Dark Ascension)
   - [x] Sorin, Solemn Visitor ( )
   - [x] Tidehollow Sculler ( )
+  - [x] Utter End ( )
   - [x] Vindicate ( )
 
 ### Rainbow
