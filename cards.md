@@ -404,7 +404,7 @@
   - [x] Tarmogoyf ( )
   - [x] Terastodon ( )
   - [x] Thragtusk ( )
-  - [x] Tooth and Nail ( )
+  - [x] Traverse the Ulvenwald ( )
   - [x] Ulvenwald Hydra ( )
   - [x] Wall of Blossoms ( )
   - [x] Wall of Roots ( )
