@@ -572,10 +572,10 @@
 ### Selesnya
 
   - [x] Ajani, Mentor of Heroes ( )
+  - [x] Dragonlord Dromoka ( )
   - [x] Kitchen Finks ( )
   - [x] Mirari's Wake ( )
   - [x] Qasali Pridemage ( )
-  - [x] Voice of Resurgence ( )
 
 ### Simic
 
