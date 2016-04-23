@@ -122,6 +122,7 @@
   - [x] Sword of Feast and Famine (Mirrodin Besieged)
   - [x] Sword of Fire and Ice ( )
   - [x] Sword of Light and Shadow ( )
+  - [x] Sword of War and Peace ( )
   - [x] Taiga (Revised Edition)
   - [x] Tangle Wire (Nemesis)
   - [x] Temple Garden (Return to Ravnica)
