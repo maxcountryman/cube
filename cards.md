@@ -12,7 +12,7 @@
   - [x] Boros Charm ( )
   - [x] Figure of Destiny ( )
   - [x] Lightning Helix ( )
-  - [x] Warleader's Helix ( )
+  - [x] Nahiri, the Harbinger ( )
 
 ### Colorless
 
