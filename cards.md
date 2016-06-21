@@ -192,7 +192,7 @@
 
   - [x] Bloodbraid Elf ( )
   - [x] Domri Rade ( )
-  - [x] Ghor-Clan Rampager ( )
+  - [x] Dragonlord Atarka ( )
   - [x] Huntmaster of the Fells ( )
   - [x] Xenagos, the Reveler ( )
 
