@@ -180,8 +180,8 @@
 
   - [x] Deathrite Shaman ( )
   - [x] Garruk, Apex Predator ( )
-  - [x] Maelstrom Pulse ( )
   - [x] Pernicious Deed (Apocalypse)
+  - [x] The Gitrog Monster ( )
   - [x] Vraska the Unseen (Return to Ravnica)
 
 ### Grixis
