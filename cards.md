@@ -35,6 +35,7 @@
   - [x] City of Brass (Modern Masters)
   - [x] Clifftop Retreat ( )
   - [x] Coalition Relic (Future Sight)
+  - [x] Coercive Portal ( )
   - [x] Crucible of Worlds (Fifth Dawn)
   - [x] Cursed Scroll (Tempest)
   - [x] Dark Depths (Coldsnap)
