@@ -91,6 +91,7 @@
   - [x] Myr Battlesphere ( )
   - [x] Orzhov Signet (Guildpact)
   - [x] Overgrown Tomb (Return to Ravnica)
+  - [x] Pentad Prism (Fifth Dawn)
   - [x] Phyrexian Revoker ( )
   - [x] Pithing Needle ( )
   - [x] Plateau (Revised Edition)
