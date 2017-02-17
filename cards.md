@@ -183,10 +183,10 @@
 
 ### Golgari
 
+  - [x] Abrupt Decay (Return to Ravnica)
   - [x] Deathrite Shaman ( )
   - [x] Garruk, Apex Predator ( )
   - [x] Pernicious Deed (Apocalypse)
-  - [x] The Gitrog Monster ( )
   - [x] Vraska the Unseen (Return to Ravnica)
 
 ### Grixis
