@@ -174,7 +174,7 @@
   - [x] Dark Ritual (Mercadian Masques)
   - [x] Demonic Tutor (Revised Edition)
   - [x] Desecration Demon ( )
-  - [x] Diabolic Edit (Tempest)
+  - [x] Diabolic Edict (Tempest)
   - [x] Diabolic Servitude (Urza's Saga)
   - [x] Dismember ( )
   - [x] Doom Blade ( )
