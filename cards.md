@@ -1,19 +1,3 @@
-### Azorius
-
-  - [x] Geist of Saint Traft (Innistrad)
-  - [x] Sphinx's Revelation ( )
-  - [x] Spell Queller ( )
-  - [x] Supreme Verdict ( )
-  - [x] Venser, the Sojourner ( )
-
-### Boros
-
-  - [x] Ajani Vengeant (Shards of Alara)
-  - [x] Boros Charm ( )
-  - [x] Figure of Destiny ( )
-  - [x] Lightning Helix ( )
-  - [x] Nahiri, the Harbinger ( )
-
 ### Lands
 
   - [x] Academy Ruins (Timespiral)
@@ -173,45 +157,6 @@
   - [x] Ugin, the Spirit Dragon ( )
   - [x] Ulamog, the Ceaseless Hunger (Battle for Zendikar)
   - [x] Ulamog, the Infinite Gyre ( )
-
-### Dimir
-
-  - [x] Ashiok, Nightmare Weaver ( )
-  - [x] Baleful Strix ( )
-  - [x] Dragonlord Silumgar ( )
-  - [x] Notion Thief ( )
-  - [x] Tezzeret, Agent of Bolas ( )
-
-### Esper
-
-  - [x] Sphinx of the Steel Wind (Alara Reborn)
-
-### Golgari
-
-  - [x] Abrupt Decay (Return to Ravnica)
-  - [x] Deathrite Shaman ( )
-  - [x] Garruk, Apex Predator ( )
-  - [x] Pernicious Deed (Apocalypse)
-  - [x] Vraska the Unseen (Return to Ravnica)
-
-### Grixis
-
-  - [x] Nicol Bolas, Planeswalker ( )
-
-### Gruul
-
-  - [x] Bloodbraid Elf ( )
-  - [x] Dragonlord Atarka ( )
-  - [x] Huntmaster of the Fells ( )
-  - [x] Xenagos, the Reveler ( )
-
-### Izzet
-
-  - [x] Dack Fayden ( )
-  - [x] Electrolyze ( )
-  - [x] Fire // Ice ( )
-  - [x] Jori En, Ruin Diver ( )
-  - [x] Ral Zarek (Dragon's Maze)
 
 ### Mono Black
 
@@ -553,6 +498,61 @@
   - [x] Wall of Omens ( )
   - [x] War Priest of Thune ( )
   - [x] Wrath of God (Seventh Edition)
+
+### Azorius
+
+  - [x] Geist of Saint Traft (Innistrad)
+  - [x] Sphinx's Revelation ( )
+  - [x] Spell Queller ( )
+  - [x] Supreme Verdict ( )
+  - [x] Venser, the Sojourner ( )
+
+### Boros
+
+  - [x] Ajani Vengeant (Shards of Alara)
+  - [x] Boros Charm ( )
+  - [x] Figure of Destiny ( )
+  - [x] Lightning Helix ( )
+  - [x] Nahiri, the Harbinger ( )
+
+### Dimir
+
+  - [x] Ashiok, Nightmare Weaver ( )
+  - [x] Baleful Strix ( )
+  - [x] Dragonlord Silumgar ( )
+  - [x] Notion Thief ( )
+  - [x] Tezzeret, Agent of Bolas ( )
+
+### Esper
+
+  - [x] Sphinx of the Steel Wind (Alara Reborn)
+
+### Golgari
+
+  - [x] Abrupt Decay (Return to Ravnica)
+  - [x] Deathrite Shaman ( )
+  - [x] Garruk, Apex Predator ( )
+  - [x] Pernicious Deed (Apocalypse)
+  - [x] Vraska the Unseen (Return to Ravnica)
+
+### Grixis
+
+  - [x] Nicol Bolas, Planeswalker ( )
+
+### Gruul
+
+  - [x] Bloodbraid Elf ( )
+  - [x] Dragonlord Atarka ( )
+  - [x] Huntmaster of the Fells ( )
+  - [x] Xenagos, the Reveler ( )
+
+### Izzet
+
+  - [x] Dack Fayden ( )
+  - [x] Electrolyze ( )
+  - [x] Fire // Ice ( )
+  - [x] Jori En, Ruin Diver ( )
+  - [x] Ral Zarek (Dragon's Maze)
 
 ### Orzhov
 
