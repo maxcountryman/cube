@@ -201,7 +201,6 @@
 ### Gruul
 
   - [x] Bloodbraid Elf ( )
-  - [x] Domri Rade ( )
   - [x] Dragonlord Atarka ( )
   - [x] Huntmaster of the Fells ( )
   - [x] Xenagos, the Reveler ( )
@@ -244,7 +243,6 @@
   - [x] Griselbrand ( )
   - [x] Hero's Downfall ( )
   - [x] Hymn to Tourach ( )
-  - [x] Hypnotic Specter ( )
   - [x] Imperial Seal ( )
   - [x] Infernal Tutor ( )
   - [x] Inquisition of Kozilek ( )
@@ -279,7 +277,6 @@
   - [x] Vampire Hexmage (Zendikar)
   - [x] Vampire Nighthawk ( )
   - [x] Vampiric Tutor (Visions)
-  - [x] Whip of Erebos ( )
   - [x] Yawgmoth's Bargain (Urza's Destiny)
   - [x] Yawgmoth's Will (Urza's Saga)
 
@@ -366,7 +363,6 @@
   - [x] Awakening Zone ( )
   - [x] Beast Within (New Phyrexia)
   - [x] Birds of Paradise ( )
-  - [x] Birthing Pod ( )
   - [x] Channel ( )
   - [x] Chord of Calling ( )
   - [x] Courser of Kruphix ( )
@@ -389,7 +385,6 @@
   - [x] Harmonize ( )
   - [x] Heartbeat of Spring ( )
   - [x] Indrik Stomphowler ( )
-  - [x] Joraga Treespeaker ( )
   - [x] Kodama's Reach ( )
   - [x] Krosan Grip ( )
   - [x] Llanowar Elves ( )
@@ -431,7 +426,6 @@
   - [x] Abbot of Keral Keep ( )
   - [x] Ancient Grudge ( )
   - [x] Avalanche Riders ( )
-  - [x] Avaricious Dragon ( )
   - [x] Bonfire of the Damned ( )
   - [x] Brimstone Volley ( )
   - [x] Burning of Xinye ( )
@@ -479,7 +473,6 @@
   - [x] Searing Spear ( )
   - [x] Seething Song (Mirrodin)
   - [x] Siege-Gang Commander ( )
-  - [x] Sin Prodder ( )
   - [x] Smash to Smithereens ( )
   - [x] Sneak Attack ( )
   - [x] Splinter Twin ( )
@@ -519,7 +512,6 @@
   - [x] Faith's Fetters ( )
   - [x] Felidar Guardian ( )
   - [x] Flickerwisp ( )
-  - [x] Gideon Jura ( )
   - [x] Hanweir Militia Captain ( )
   - [x] Hero of Bladehold ( )
   - [x] Honor of the Pure ( )
@@ -546,7 +538,6 @@
   - [x] Reveillark ( )
   - [x] Sanctum Prelate ( )
   - [x] Secure the Wastes (Dragons of Tarkir)
-  - [x] Seeker of the Way ( )
   - [x] Silverblade Paladin ( )
   - [x] Soldier of the Pantheon ( )
   - [x] Soulfire Grand Master (Fate Reforged)
@@ -565,8 +556,6 @@
 
 ### Orzhov
 
-  - [x] Sorin, Lord of Innistrad (Dark Ascension)
-  - [x] Sorin, Solemn Visitor ( )
   - [x] Tidehollow Sculler ( )
   - [x] Utter End ( )
   - [x] Vindicate ( )
