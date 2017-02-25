@@ -1,8 +1,8 @@
 ### Azorius
 
-  - [x] Brago, King Eternal ( )
-  - [x] Geist of Saint Traft ( )
+  - [x] Geist of Saint Traft (Innistrad)
   - [x] Sphinx's Revelation ( )
+  - [x] Spell Queller ( )
   - [x] Supreme Verdict ( )
   - [x] Venser, the Sojourner ( )
 
