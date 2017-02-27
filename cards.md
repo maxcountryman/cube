@@ -166,6 +166,7 @@
   - [x] Bloodline Keeper ( )
   - [x] Braids, Cabal Minion (Odyssey)
   - [x] Brain Maggot ( )
+  - [x] Buried Alive (Weatherlight)
   - [x] Cabal Ritual ( )
   - [x] Corpse Dance (Tempest)
   - [x] Damnation ( )
@@ -192,7 +193,6 @@
   - [x] Imperial Seal ( )
   - [x] Infernal Tutor ( )
   - [x] Inquisition of Kozilek ( )
-  - [x] Languish (Magic Origins)
   - [x] Liliana of the Veil ( )
   - [x] Living Death ( )
   - [x] Makeshift Mannequin (Lorwyn)
@@ -556,8 +556,8 @@
 
 ### Orzhov
 
+  - [x] Anguished Unmaking ( )
   - [x] Tidehollow Sculler ( )
-  - [x] Utter End ( )
   - [x] Vindicate ( )
 
 ### Rainbow
