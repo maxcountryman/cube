@@ -2,6 +2,8 @@
 set -e
 
 declare -A sets=(
+  ["Alpha Edition"]="1E"
+  ["Beta Edition"]="2E"
   ["Unlimited Edition"]="2U"
   ["Arabian Nights"]="AN"
   ["Antiquities"]="AQ"
@@ -55,6 +57,7 @@ declare -A sets=(
   ["Conflux"]="CON"
   ["Alara Reborn"]="ARB"
   ["Magic 2010"]="M10"
+  ["Magic 2011"]="M11"
   ["Zendikar"]="ZEN"
   ["Worldwake"]="WWK"
   ["Rise of the Eldrazi"]="ROE"
@@ -75,6 +78,7 @@ declare -A sets=(
   ["Dragons of Tarkir"]="DTK"
   ["Magic Origins"]="ORI"
   ["Battle for Zendikar"]="BFZ"
+  ["Modern Masters"]="MMA"
 )
 
 uriencode() {
