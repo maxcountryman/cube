@@ -134,7 +134,7 @@
   - [x] Spellskite (New Phyrexia)
   - [x] Staff of Domination (Fifth Dawn)
   - [x] Staff of Nin ( )
-  - [x] Sundering Titan ( )
+  - [x] Sundering Titan (Darksteel)
   - [x] Sword of Body and Mind (Scars of Mirrodin)
   - [x] Sword of Feast and Famine (Mirrodin Besieged)
   - [x] Sword of Fire and Ice (Modern Masters)
@@ -147,7 +147,7 @@
   - [x] Voltaic Key (Urza's Saga)
   - [x] Winter Orb ( )
   - [x] Worn Powerstone (Urza's Saga)
-  - [x] Wurmcoil Engine (cars of Mirrodin)
+  - [x] Wurmcoil Engine (Scars of Mirrodin)
   - [x] Zuran Orb (Ice Age)
 
 ### Colorless
