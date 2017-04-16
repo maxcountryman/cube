@@ -412,7 +412,7 @@
   - [x] Mizzium Mortars ( )
   - [x] Past in Flames (Innistrad)
   - [x] Pia and Kiran Nalaar ( )
-  - [x] Recoup ( )
+  - [x] Recoup (Odyssey)
   - [x] Rift Bolt ( )
   - [x] Sarkhan, the Dragonspeaker ( )
   - [x] Searing Blaze ( )
